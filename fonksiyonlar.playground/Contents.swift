@@ -105,6 +105,6 @@ func selamlamaMesajıYaz(_ mesaj:String){
     merhabaEkle()
 }
 
-selamlamaMesajıYaz("Emre")
+selamlamaMesajıYaz("Harun")
 
 
